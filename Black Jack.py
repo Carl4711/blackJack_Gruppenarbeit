@@ -58,7 +58,7 @@ def ziehen():
     spielerhand.append(kartenstapel.pop())
 
 WertErmitteln(spielerhand)
-ui.colors(primary = '#5898d4',)
+
 ui.label('Hello NiceGUI!')
 ui.run()
 
