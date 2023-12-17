@@ -61,5 +61,5 @@ WertErmitteln(spielerhand)
 
 ui.label('Hello NiceGUI!')
 ui.run()
-
+#Mach mal etwas gutes
         
